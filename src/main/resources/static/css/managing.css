@@ -1,0 +1,15 @@
+.order-nav-link {
+    background-color: #eeeeee;
+    color: black;
+    text-decoration: none;
+}
+
+.order-nav-link:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.order-nav-link.active {
+    background-color: #562c94;
+    color: white;
+}

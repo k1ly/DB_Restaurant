@@ -1,0 +1,44 @@
+.info-container {
+    height: 75vh;
+}
+
+.info-header {
+    background-color: rgb(237 20 61 / 60%);
+}
+
+.info-about {
+    width: 55%;
+    margin: 15%;
+}
+
+.info-dish {
+    max-width: 40%;
+}
+
+.info-menu {
+    width: 80%;
+    margin: 5%;
+}
+
+.info-extra {
+    width: 70%;
+    padding: 5%;
+    background: rgba(204, 241, 255, 0.2);
+}
+
+.info-title {
+    font-family: Arial Rounded MT Bold, sans-serif
+}
+
+.star {
+    color: #faea8a;
+    cursor: pointer;
+}
+
+.star.active {
+    color: orange;
+}
+
+.review-user {
+    color: #082f59;
+}

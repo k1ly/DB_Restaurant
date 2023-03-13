@@ -1,0 +1,28 @@
+.content-container {
+    min-height: 75vh;
+}
+
+.nav-tab-header {
+    background-color: rgba(103, 246, 255, 0.86);
+}
+
+.nav-tab-link {
+    background-color: rgba(235, 247, 252, 0.82);
+    color: #4b4b4b;
+}
+
+.order-nav-link {
+    background-color: #eeeeee;
+    color: black;
+    text-decoration: none;
+}
+
+.order-nav-link:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.order-nav-link.active {
+    background-color: #0478aa;
+    color: white;
+}

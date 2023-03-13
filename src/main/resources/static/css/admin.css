@@ -1,0 +1,38 @@
+.admin-nav-link {
+    background-color: #eeeeee;
+    color: black;
+    text-decoration: none;
+}
+
+.admin-nav-link:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+.admin-nav-link.active {
+    background-color: #dc1449;
+    color: white;
+}
+
+.admin-content {
+    background-color: rgba(255, 255, 255, 0.89);
+}
+
+.null-table-cell {
+    color: rgba(0, 0, 0, 0.5);
+    font-style: italic;
+    content: 'null';
+}
+
+.dish-image-container {
+    width: 300px;
+    height: 300px;
+}
+
+.dish-image {
+    background-color: #e8e8e8;
+}
+
+.dish-image.drag {
+    background-color: #b7b7b7;
+}

@@ -1,0 +1,12 @@
+.login-container {
+    background: #95bae0;
+}
+
+.login {
+    border: 3px solid white;
+    background-color: #d2f1ff;
+}
+
+.show-password {
+    background-color: #f5f5f5;
+}
