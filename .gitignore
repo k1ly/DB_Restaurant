@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+target/
+out/
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NodeJS ###
+node_modules/
+
+# Logs #
+logs/
